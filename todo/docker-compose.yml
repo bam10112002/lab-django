@@ -22,7 +22,7 @@ services:
     restart: always
 
   nginx:
-    image: amd64/nginx
+    image: nginx
     container_name: nginx
     ports:
       - "8080:80"
