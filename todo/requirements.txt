@@ -1,0 +1,6 @@
+gunicorn==22.0.0
+djangorestframework==3.15.1
+markdown==3.6
+django-filter==24.2
+django==5.0.6
+psycopg2==2.9.9

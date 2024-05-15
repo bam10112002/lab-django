@@ -1,0 +1,1 @@
+wrk -t4 -c100 -d60s -s wrk/get_all.lua http://localhost:8080/api/task
